@@ -150,7 +150,7 @@ The 24 Singlish input types that must be covered are:
 4. Zip the folder
 5. Upload to the **'Assignment 1 Answer: Option 1'** link on CourseWeb **before 5th May**
 
-> ⚠️ **Plagiarism Notice:** Submitted Excel files will be checked for plagiarism. Any submission with a similarity score **greater than 10%** will receive **no marks**.
+**Plagiarism Notice:** Submitted Excel files will be checked for plagiarism. Any submission with a similarity score **greater than 10%** will receive **no marks**.
 
 ---
 
