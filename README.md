@@ -1,6 +1,3 @@
-# Assignment 1 – IT3040 ITPM (Semester 1)
-## BSc (Hons) in Information Technology – Year 3
-### Option 1: Transliteration Accuracy Testing (for students familiar with Sinhala)
 
 ---
 
