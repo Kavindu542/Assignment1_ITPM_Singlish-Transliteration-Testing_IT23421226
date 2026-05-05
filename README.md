@@ -132,30 +132,3 @@ The 24 Singlish input types that must be covered are:
 22. Inputs with Slang and Casual Phrasing
 23. Online Identifiers in Singlish
 24. Inputs Containing Emojis
-
----
-
-## Required Submission Files
-
-1. **Full Playwright project repository** (including all scripts and configuration files)
-   - Must include a `README.md` with setup and run instructions
-   - Git repository must be **publicly accessible**
-2. **Completed Excel file** titled `Assignment 1 - Test cases` (renamed with your registration number)
-
-### Submission Steps
-
-1. Rename all files with your **registration number**
-2. Create a folder named with your **registration number**
-3. Paste all required files into the folder
-4. Zip the folder
-5. Upload to the **'Assignment 1 Answer: Option 1'** link on CourseWeb **before 5th May**
-
-**Plagiarism Notice:** Submitted Excel files will be checked for plagiarism. Any submission with a similarity score **greater than 10%** will receive **no marks**.
-
----
-
-## Notes
-
-- This assessment is worth **18%** of the overall unit marks.
-- It must be attempted **individually**.
-- Repositories that cannot be accessed during marking will **not** be evaluated.
